@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1459371426 source:c:\users\rafael\desktop\lista_estatica_generica\main.cpp
+	<iostream>
+	"lista_estatica_generica.h"
+	"poker.h"
+
+1459364387 c:\users\rafael\desktop\lista_estatica_generica\lista_estatica_generica.h
+
+1459371555 c:\users\rafael\desktop\lista_estatica_generica\poker.h
+	"lista_estatica_generica.h"
+
